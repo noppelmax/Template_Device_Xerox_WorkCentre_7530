@@ -20,6 +20,12 @@ zabbix_export:
         * Version 1.0
         * Date: 24 June 2015
         * adapted by Maximilian Noppel
+        
+        * Version 2.0
+        * Date: 2 April 2022
+        * Author: FoxSusR
+        * Adapted for Zabbix 6
+        * Note: add tray monitoring (1-4)
       groups:
         -
           name: Templates
